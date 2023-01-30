@@ -1,1 +1,2 @@
-
+return value: function prduces a result r return value
+return statement ends the function execution and send back the result of the function.
